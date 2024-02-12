@@ -1,6 +1,6 @@
 # Exploring-Data 👩🏻‍💻
 
-## This code was developed in a Kaggle coding exercise. Aiming to test your ability to read a data file and understand statistics about the data.
+## This notebook is an exercise in the Introduction to Machine Learningability to read a data file and understand statistics about the data.
 
 ### 1) Importing libraries: 
 - learntools.core: being used to configure and provide code selection functionality in an interactive learning environment
