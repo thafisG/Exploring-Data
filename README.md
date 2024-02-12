@@ -1,6 +1,6 @@
 # Exploring-Data 👩🏻‍💻
 
-## This notebook is an exercise in the Introduction to Machine Learningability to read a data file and understand statistics about the data.
+## This notebook is an exercise in the Introduction to Machine Learning
 
 ### 1) Importing libraries: 
 - learntools.core: being used to configure and provide code selection functionality in an interactive learning environment
